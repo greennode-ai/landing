@@ -2,7 +2,7 @@ enabled: true
 id: "portfolio"
 
 content:
-  - image: "images/portfolio-ecommerce.png"
+  - image: "images/portfolio-gpu.png"
     pretitle: "Portfolio Service"
     title: "We build the GPU infrastrucure for your AI Cloud journey"
     text: "We provide metal features cutting-edge technology such as H100 GPUs, Bluefield 3 DPUs, all NVMe storage, and high core count AMD EPYC and Intel Xeon processors. Dedicated high speed GPU- Direct RDMA non-blocking NDR networking guarantees the scale and node performance to run large AI training & inference workloads.."
