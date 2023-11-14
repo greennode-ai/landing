@@ -1,0 +1,89 @@
+baseURL: "https://greenode.ai/"
+theme: "up"
+languageCode: "en-us"
+
+title: "Greenode"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Greenode"
+  description: "We specialize in GPU and AI infrastructure and services to build a greener global."
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#131F3A"
+    backgroundColor: "#131F3A"
+    faviconColor: "#000000"
+
+  social:
+    instagram: "#"
+    facebook: "#"
+    tiktok: "#"
+
+  location:
+    - "15h 20m 03s Right Ascension -18° 27 09 Declination Constellation Libra"
+
+  contact:
+    - "info@greennode.ai"
+    - "sales@greenode.ai"
+
+  copyright: "© 2023 GreenNode All Rights Reserved"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "How we work"
+      url: "/#"
+      weight: 2
+
+    - name: "Our team"
+      url: "/#"
+      weight: 3
+
+    - name: "Pricing"
+      url: "/#"
+      weight: 4
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 5
+
+  buttons:
+    - name: "Book a call"
+      url: "/#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "How we work"
+      url: "/#"
+      weight: 2
+
+    - name: "Our team"
+      url: "/#"
+      weight: 3
+
+    - name: "Pricing"
+      url: "/#"
+      weight: 4
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 5
+
+taxonomies:
+  series: "series"
+  tags: "tags"

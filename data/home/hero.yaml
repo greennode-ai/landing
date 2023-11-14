@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "One stop Solution for your AI journey"
+  text: "Bring AI workload with uncompromising performance of NVIDIA power house H100, GH200 and many more..."
+
+  buttonPrimary:
+    label: "How we work"
+    url: "#"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: ""
+
