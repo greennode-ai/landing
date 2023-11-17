@@ -2,14 +2,14 @@ baseURL: "https://greenode.ai/"
 theme: "up"
 languageCode: "en-us"
 
-title: "Greenode"
+title: ""
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: ""
+  title: "Greennode"
   description: "We specialize in GPU and AI infrastructure and services to build a greener global."
   images: 
     - "images/hero-image.png"
