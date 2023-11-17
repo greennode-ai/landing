@@ -9,7 +9,7 @@ title: "Greenode"
 summaryLength: 20
 
 params:
-  title: "Greenode"
+  title: ""
   description: "We specialize in GPU and AI infrastructure and services to build a greener global."
   images: 
     - "images/hero-image.png"
