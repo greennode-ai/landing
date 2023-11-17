@@ -2,25 +2,25 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "What we offer"
+  text: "Enhance the efficiency of any GPU-accelerated task using preconfigured options or tailor custom configurations to meet your specific requirements"
   cards:
     - image: "images/services-web-development.png"
-      title: "Baremetal GPU Cloud"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "BPre-Configured Flavors"
+      text: "Enhance the efficiency of any GPU-accelerated task using preconfigured options or tailor custom configurations to meet your specific requirements "
       button:
         label: "Learn more"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "AI platform"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Top notch API"
+      text: "Top-notch API(CLI, GraphQL) to streamline your workload and instantly provision GPUs "
       button:
         label: "Learn more"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "AI API/application"
+      title: "Quick deployment"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
       button:
         label: "Learn more"
