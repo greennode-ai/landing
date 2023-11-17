@@ -41,11 +41,11 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "SLA"
+    - name: "Why choose GreenNode?"
       url: "/sla"
       weight: 2
 
-    - name: "Our team"
+    - name: "Product"
       url: "/#"
       weight: 3
 
@@ -53,8 +53,8 @@ menus:
       url: "/#"
       weight: 4
 
-    - name: "Blog"
-      url: "/blog"
+    - name: "FAQ"
+      url: "/faq"
       weight: 5
 
   buttons:
@@ -68,11 +68,11 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "SLA"
+    - name: "Why choose GreenNode?"
       url: "/sla"
       weight: 2
 
-    - name: "Our team"
+    - name: "Product"
       url: "/#"
       weight: 3
 
@@ -80,8 +80,8 @@ menus:
       url: "/#"
       weight: 4
 
-    - name: "Blog"
-      url: "/blog"
+    - name: "FAQ"
+      url: "/faq"
       weight: 5
 
 taxonomies:
