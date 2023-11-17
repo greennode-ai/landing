@@ -27,7 +27,7 @@ params:
     tiktok: "#"
 
   location:
-    - "15h 20m 03s Right Ascension -18° 27 09 Declination Constellation Libra"
+    - "80 Raffles Place #25-01 UOB Plaza Singapore (048624)"
 
   contact:
     - "info@greennode.ai"
@@ -41,8 +41,8 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
-      url: "/#"
+    - name: "SLA"
+      url: "/sla"
       weight: 2
 
     - name: "Our team"
