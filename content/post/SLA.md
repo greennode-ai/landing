@@ -3,9 +3,6 @@ author = "Hugo Authors"
 title = "Emoji Support"
 date = "2023-0-05"
 description = "SLA"
-tags = [
-"sla"
-]
 +++
 
 - Failure rate: Asus: 7.25% trong vòng 3 năm cho toàn bộ tất cả các parts -> tỉ lệ spare parts và stock theo miền Bắc và Nam.
