@@ -6,7 +6,7 @@ content:
   text: "Enhance the efficiency of any GPU-accelerated task using preconfigured options or tailor custom configurations to meet your specific requirements"
   cards:
     - image: "images/services-web-development.png"
-      title: "BPre-Configured Flavors"
+      title: "Pre-Configured Flavors"
       text: "Enhance the efficiency of any GPU-accelerated task using preconfigured options or tailor custom configurations to meet your specific requirements "
       button:
         label: "Learn more"
@@ -21,7 +21,15 @@ content:
 
     - image: "images/services-web-development.png"
       title: "Quick deployment"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      text: "Deploy GPU instances based on containers, launching within seconds, using both public and private repositories."
       button:
         label: "Learn more"
         url: "#"
+        
+    - image: "images/services-web-development.png"
+      title: "Managed Kubernetes"
+      text: "Managed Kubernetes containers deliver high performance without infrastructure hassles. Enjoy rapid instance provisioning and responsive auto-scaling across thoudsands of GPUs."
+      button:
+        label: "Learn more"
+        url: "#"
+
