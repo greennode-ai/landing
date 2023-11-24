@@ -33,9 +33,9 @@ content:
         label: "Learn more"
         url: "#"
 
-   - image: "images/gstorage.png"
-      title: "Premium storage"
-      text: "Fault tolerant cloud storage with multi tiers replication, you can easily scale the volumes with superior performance."
-      button:
-        label: "Learn more"
-        url: "#"
+     - image: "images/gstorage.png"
+        title: "Premium storage"
+        text: "Fault tolerant cloud storage with multi tiers replication, you can easily scale the volumes with superior performance."
+        button:
+          label: "Learn more"
+          url: "#"
