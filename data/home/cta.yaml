@@ -5,5 +5,5 @@ content:
   title: "Start your business now!"
   image: "images/reserve.png"
   button:
-    label: "Let's talk"
+    label: ""
     url: "#"
