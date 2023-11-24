@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "Greennode"
-  description: "We specialize in GPU and AI infrastructure and services to build a greener global."
+  description: "Pioneering AI Cloud infrastructure for a smarter, greener world."
   images: 
     - "images/hero-image.png"
 
