@@ -5,35 +5,35 @@ content:
   title: "What we offer"
   text: "Enhance the efficiency of any GPU-accelerated task using preconfigured options or tailor custom configurations to meet your specific requirements"
   cards:
-    - image: "images/services-web-development.png"
+    - image: "images/gflavor.png"
       title: "Pre-Configured Flavors"
       text: "Enhance the efficiency of any GPU-accelerated task using preconfigured options or tailor custom configurations to meet your specific requirements "
       button:
         label: "Learn more"
         url: "#"
 
-    - image: "images/services-web-development.png"
+    - image: "images/gapi.png"
       title: "Top notch API"
       text: "Top-notch API(CLI, GraphQL) to streamline your workload and instantly provision GPUs "
       button:
         label: "Learn more"
         url: "#"
 
-    - image: "images/services-web-development.png"
+    - image: "images/gdeployment.png"
       title: "Quick deployment"
       text: "Deploy GPU instances based on containers, launching within seconds, using both public and private repositories."
       button:
         label: "Learn more"
         url: "#"
         
-    - image: "images/services-web-development.png"
+    - image: "images/gk8s.png"
       title: "Managed Kubernetes"
       text: "Managed Kubernetes containers deliver high performance without infrastructure hassles. Enjoy rapid instance provisioning and responsive auto-scaling across thoudsands of GPUs."
       button:
         label: "Learn more"
         url: "#"
 
-   - image: "images/services-web-development.png"
+   - image: "images/gstorage.png"
       title: "Premium storage"
       text: "Fault tolerant cloud storage with multi tiers replication, you can easily scale the volumes with superior performance."
       button:
