@@ -39,3 +39,10 @@ content:
       button:
         label: "Learn more"
         url: "#"
+        
+    - image: "images/gnet.png"
+      title: "Oustanding network"
+      text: "Easily scale your network for HPC workloads with routing, switching, firewalling, and load-balancing, all without egress change."
+      button:
+        label: "Learn more"
+        url: "#"
